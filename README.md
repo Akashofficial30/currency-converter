@@ -19,5 +19,12 @@ A simple currency converter implemented in Python. This program allows users to 
     currency-converter
   python currency_converter.py
 
+## Acknowledgments 
+     *Thanks to the Python community for the language and inspiration.
+
+## Contact 
+   If you have any questions or suggestions, feel free to reach out:
+
+   Email: [akash.0930.s@gmail.com]
 
   
